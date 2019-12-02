@@ -2,7 +2,7 @@
 # [MultitaskNet](https://github.com/imvinod/MultitaskNet) implementation in PyTorch
 <br>
 
-![MultitaskNet](/home/vinod/Git_Workspace/MultitaskNet/images/multitasknet.png  "MultitaskNet")
+![MultitaskNet](images/multitasknet.png  "MultitaskNet")
 
 
 ## Prerequisites
